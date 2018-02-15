@@ -1,0 +1,10 @@
+{
+  "background": {
+      "scripts": ["background.js"]
+  },
+  "manifest_version": 2,
+  "name": "Opt-Out Cookie Detector",
+  "version": "1.0",
+
+  "permissions": ["tabs", "cookies", "http://*/*", "https://*/*"]
+}
